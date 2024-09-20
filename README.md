@@ -57,9 +57,9 @@ This project underscores the value of data analytics in understanding and naviga
 ---
 
 ### PDF Links
-- [PDF Link: Sample output report for shop 1](reports\Blushyprints 20240831_1916.pdf)
-- [PDF Link: Sample output report for shop 2](reports\SmileSloth 20240831_1919.pdf)
-- [PDF Link: Detailed walkthrough](\reportStructure\Walkthrough.pdf)
-- [PDF Link: Needed report structure](reportStructure\structure2pdf.pdf)
-- [PDF Link: Report data source explained](\reportStructure\structure2explanation.pdf)
+- [PDF Link: Detailed walkthrough](reportStructure/Walkthrough.pdf)
+- [PDF Link: Needed report structure](reportStructure/structure2pdf.pdf)
+- [PDF Link: Report data source explained](reportStructure/structure2explanation.pdf)
+- [PDF Link: Sample output report for shop 1](reports/Blushyprints%2020240831_1916.pdf)
+- [PDF Link: Sample output report for shop 2](reports/SmileSloth%2020240831_1919.pdf)
 
